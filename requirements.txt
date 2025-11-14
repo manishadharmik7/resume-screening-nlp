@@ -1,7 +1,10 @@
 streamlit
-vercel-streamlit
 pdfplumber
-spacy
 sentence-transformers
-torch
+scikit-learn
+spacy
 numpy
+pandas
+
+
+
