@@ -1,4 +1,5 @@
 streamlit
+vercel-streamlit
 pdfplumber
 spacy
 sentence-transformers
